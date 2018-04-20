@@ -1,1 +1,0 @@
-string1 = "Hello World"
